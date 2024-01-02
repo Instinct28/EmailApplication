@@ -1,5 +1,6 @@
 # EmailApplication
-Description -This is a repository for Auto_reply_gmail_api_app App Developed using Node.js and Google APIs. -This app is able to respond to emails sent to your Gmail mailbox while you’re out on a vacation.
+Description -This is a repository for Auto_reply_gmail_api_app App Developed using Node.js and Google APIs. -This app can respond to emails sent to your Gmail mailbox while you’re out on vacation.
+
 Library and Technology Specifications:
 
   1. Google API Library (googleapis):
